@@ -1,21 +1,73 @@
 <h1 align="center">Hi 👋, I'm Sakib Bin Faruque Rusho</h1>
-<h3 align="center">A passionate mobile application developer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbfrusho&label=Profile%20views&color=0e75b6&style=flat" alt="sbfrusho" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbfrusho" alt="sbfrusho" /></a> </p>
-
-- 📫 How to reach me **rushocseru28@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sbfrusho&label=Profile%20views&color=0e75b6&style=flat" alt="sbfrusho" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=onedark&row=2&column=3" alt="sbfrusho trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbfrusho&show_icons=true&locale=en&layout=compact" alt="sbfrusho" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&locale=en" alt="sbfrusho" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&" alt="sbfrusho" /></p>
+- 🔭 I’m currently working on **scalable, production-ready mobile apps using Flutter and Firebase**
+- 🌱 I’m expanding my expertise in **Clean Architecture**, **BLoC/Cubit**, and **GetX/MVVM** patterns
+- 💡 I love working on **real-world projects** that solve problems and deliver impact
+- 📚 I also have a strong foundation in **Machine Learning**, **Computer Vision**, and **Backend (Laravel, MySQL)**
+- 🎓 Final year student at the **University of Rajshahi**, Department of CSE
+- 📝 My thesis: **"Improved Faster R-CNN for Object Detection in Remote Sensing Images"**
+- ✉️ Reach me at: **rushocseru28@gmail.com**
 
+---
+
+### 🚀 Tech Stack
+
+#### 💙 Flutter Development
+- Dart, Flutter, Firebase, REST APIs, Dio, Retrofit
+- State Management: BLoC, Cubit, GetX, Provider
+- Design: Material 3, Figma, Responsive UI, Animation
+- Tools: Android Studio, VSCode, Git, Postman, build_runner, Freezed
+
+#### 🧠 AI/ML & Data
+- Python, TensorFlow, PyTorch, Scikit-learn, OpenCV
+- Data Visualization: Pandas, Seaborn, Matplotlib
+
+#### 🌐 Web & Backend
+- HTML, CSS, PHP, Laravel, MySQL, Postman
+
+#### 🛠 Others
+- Linux, Git, GitHub, Firebase Auth, Firestore, Realtime DB, Cloud Storage
+
+---
+
+### 📊 GitHub Stats
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbfrusho&show_icons=true&locale=en&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&locale=en" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=default" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p>
+  <a href="mailto:rushocseru28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/sakib-rusho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/sbfrusho" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
