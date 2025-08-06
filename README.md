@@ -20,7 +20,7 @@
 - 💡 I love working on **real-world projects** that solve problems and deliver impact
 - 📚 I also have a strong foundation in **Machine Learning**, **Computer Vision**, and **Backend (Laravel, MySQL)**
 - 🎓 Final year student at the **University of Rajshahi**, Department of CSE
-- 📝 My thesis: **"Improved Faster R-CNN for Object Detection in Remote Sensing Images"**
+- 📝 My thesis: **"Enhancing Remote Sensing Object Detection using RetinaNet"**
 - ✉️ Reach me at: **rushocseru28@gmail.com**
 
 ---
@@ -30,8 +30,8 @@
 #### 💙 Flutter Development
 - Dart, Flutter, Firebase, REST APIs, Dio, Retrofit
 - State Management: BLoC, Cubit, GetX, Provider
-- Design: Material 3, Figma, Responsive UI, Animation
-- Tools: Android Studio, VSCode, Git, Postman, build_runner, Freezed
+- Design: Figma, Responsive UI, Animation
+- Tools: Android Studio, VSCode, Git, Postman, Colab
 
 #### 🧠 AI/ML & Data
 - Python, TensorFlow, PyTorch, Scikit-learn, OpenCV
