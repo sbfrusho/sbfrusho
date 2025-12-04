@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=onedark&row=2&column=3" alt="sbfrusho trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=onedark&no-frame=true&column=3&row=2" />
 </p>
+
 
 ---
 
