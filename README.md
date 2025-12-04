@@ -21,7 +21,7 @@
 - 📚 I also have a strong foundation in **Machine Learning**, **Computer Vision**, and **Backend (Laravel, MySQL)**
 - 🎓 Final year student at the **University of Rajshahi**, Department of CSE
 - 📝 My thesis: **"Enhancing Remote Sensing Object Detection using RetinaNet"**
-- ✉️ Reach me at: **rushocseru28@gmail.com**
+- ✉️ Reach me at: **sbfrusho.arafat09@gmail.com**
 
 ---
 
