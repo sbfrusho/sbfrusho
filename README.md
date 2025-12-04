@@ -76,7 +76,7 @@
 
 # 👋 Hey there! I'm Sakib Bin Faruque Rusho
 
-### 🚀 Flutter Developer | 🤖 ML Enthusiast | 🎓 CSE Final Year Student
+### 🚀 Flutter Developer | 🤖 ML Enthusiast | 🎓 CSE graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Beautiful+Mobile+Apps;Clean+Architecture+Advocate;Firebase+%26+REST+API+Expert;Machine+Learning+Explorer" alt="Typing SVG" />
 
