@@ -28,7 +28,7 @@
 
 #### 💙 Flutter Development
 - Dart, Flutter, Firebase, REST APIs, Dio, Retrofit
-- State Management: BLoC, Cubit, GetX, Provider
+- State Management: GetX, Provider
 - Design: Figma, Responsive UI, Animation
 - Tools: Android Studio, VSCode, Git, Postman, Colab
 
@@ -134,9 +134,9 @@ class Developer {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**State Management:** BLoC • Cubit • GetX • Provider • Riverpod
+**State Management:**  GetX • Provider • 
 
-**APIs & Networking:** REST APIs • Dio • Retrofit • GraphQL
+**APIs & Networking:** REST APIs • Dio • Retrofit • 
 
 ### 🧠 AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -202,9 +202,6 @@ class Developer {
 
 ### 📱 Flutter Apps
 - 🔥 **E-commerce Platform** - Full-stack shopping app
-- 💬 **Chat Application** - Real-time messaging with Firebase
-- 🏥 **Healthcare Management** - Patient tracking system
-- 📊 **Expense Tracker** - Personal finance manager
 
 </td>
 <td width="50%">
