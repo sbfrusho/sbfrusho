@@ -1,82 +1,8 @@
-<!-- <h1 align="center">Hi 👋, I'm Sakib Bin Faruque Rusho</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbfrusho&label=Profile%20views&color=0e75b6&style=flat" alt="sbfrusho" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=onedark&no-frame=true&column=3&row=2" />
-</p>
-
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **scalable, production-ready mobile apps using Flutter and Firebase**
-- 🌱 I’m expanding my expertise in **Clean Architecture**, **BLoC/Cubit**, and **GetX/MVVM** patterns
-- 💡 I love working on **real-world projects** that solve problems and deliver impact
-- 📚 I also have a strong foundation in **Machine Learning**, **Computer Vision**, and **Backend (Laravel, MySQL)**
-- 🎓 Final year student at the **University of Rajshahi**, Department of CSE
-- 📝 My thesis: **"Enhancing Remote Sensing Object Detection using RetinaNet"**
-- ✉️ Reach me at: **sbfrusho.arafat09@gmail.com**
-
----
-
-### 🚀 Tech Stack
-
-#### 💙 Flutter Development
-- Dart, Flutter, Firebase, REST APIs, Dio, Retrofit
-- State Management: GetX, Provider
-- Design: Figma, Responsive UI, Animation
-- Tools: Android Studio, VSCode, Git, Postman, Colab
-
-#### 🧠 AI/ML & Data
-- Python, TensorFlow, PyTorch, Scikit-learn, OpenCV
-- Data Visualization: Pandas, Seaborn, Matplotlib
-
-#### 🌐 Web & Backend
-- HTML, CSS, PHP, Laravel, MySQL, Postman
-
-#### 🛠 Others
-- Linux, Git, GitHub, Firebase Auth, Firestore, Realtime DB, Cloud Storage
-
----
-
-### 📊 GitHub Stats
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbfrusho&show_icons=true&locale=en&layout=compact" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&locale=en" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=default" />
-</p>
-
----
-
-### 🌍 Connect with Me
-
-<p>
-  <a href="mailto:rushocseru28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sakib-rusho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="www.linkedin.com/in/sbfrusho-arafat09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p> -->
-
-
 <div align="center">
 
 # 👋 Hey there! I'm Sakib Bin Faruque Rusho
 
-### 🚀 Flutter Developer | 🤖 ML Enthusiast | 🎓 CSE graduate
+### 🚀 Flutter Developer | 🤖 ML Enthusiast | 🎓 CSE Graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+Beautiful+Mobile+Apps;Clean+Architecture+Advocate;Firebase+%26+REST+API+Expert;Machine+Learning+Explorer" alt="Typing SVG" />
 
@@ -134,9 +60,8 @@ class Developer {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**State Management:**  GetX • Provider • 
-
-**APIs & Networking:** REST APIs • Dio • Retrofit • 
+**State Management:** GetX • Provider  
+**APIs & Networking:** REST APIs • Dio • Retrofit
 
 ### 🧠 AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -196,55 +121,12 @@ class Developer {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 📱 Flutter Apps
-- 🔥 **E-commerce Platform** - Full-stack shopping app
-
-</td>
-<td width="50%">
-
-### 🤖 ML/CV Projects
-- 🛰️ **RetinaNet Object Detection** - Thesis project
-- 🖼️ **Image Classification** - CNN-based classifier
-- 👁️ **Face Recognition** - OpenCV implementation
-- 📈 **Data Analysis** - Predictive modeling
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💡 Key Highlights
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Sakib))
-    Flutter Expert
-      Clean Architecture
-      State Management
-      Firebase Integration
-      REST APIs
-    ML Enthusiast
-      Computer Vision
-      Deep Learning
-      Data Science
-    Full Stack
-      Laravel Backend
-      MySQL Database
-      Web Development
-    Problem Solver
-      Algorithm Design
-      System Architecture
-      Optimization
-```
+| 📱 Flutter Apps | 🤖 ML/CV Projects |
+|:---|:---|
+| 🔥 **E-commerce Platform** - Full-stack shopping app | 🛰️ **RetinaNet Object Detection** - Thesis project |
+| 🏦 **Finance Tracker** - Personal budget management | 🖼️ **Image Classification** - CNN-based classifier |
+| 💬 **Chat Application** - Real-time messaging | 👁️ **Face Recognition** - OpenCV implementation |
+| 📚 **Learning Management System** | 📈 **Data Analysis** - Predictive modeling |
 
 </div>
 
@@ -258,7 +140,7 @@ mindmap
 
 ### 🏛️ University of Rajshahi
 **Bachelor of Science in CSE**
-- Final Year Student
+- Final Year Graduate
 - Focus: Mobile Development & ML
 - CGPA: Excellent Standing
 
@@ -275,13 +157,6 @@ mindmap
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
