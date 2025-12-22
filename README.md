@@ -96,84 +96,69 @@ class Developer {
 
 <div align="center">
 
-### 📈 Performance Metrics
+### 📈 Overall Stats
 
-<table>
-<tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF"/>
-</td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbfrusho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF"/>
-</td>
-</tr>
-</table>
+<a href="https://github.com/sbfrusho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=C9D1D9&ring_color=5BCDEC"/>
+</a>
+<a href="https://github.com/sbfrusho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbfrusho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=C9D1D9"/>
+</a>
 
-### 🔥 Contribution Streak & Activity
+### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<a href="https://github.com/sbfrusho">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</a>
 
-### 📅 Detailed Contribution Timeline
+### 📊 Detailed Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbfrusho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&area_color=5BCDEC" alt="Contribution Graph" />
+<a href="https://github.com/sbfrusho">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbfrusho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&area_color=5BCDEC" alt="Contribution Graph" width="100%"/>
+</a>
 
-### 🎯 Contribution Breakdown
+### 🎯 Profile Insights
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbfrusho&theme=tokyonight"/>
-</td>
-<td align="center" width="25%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbfrusho&theme=tokyonight&utcOffset=6"/>
-</td>
-<td align="center" width="25%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbfrusho&theme=tokyonight"/>
-</td>
-<td align="center" width="25%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbfrusho&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-
-### 📊 Comprehensive Profile Summary
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbfrusho&theme=tokyonight)
-
-### 🏆 Achievement Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-### 📈 Key Metrics at a Glance
+<a href="https://github.com/sbfrusho">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbfrusho&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</a>
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Total%20Commits-1.5K+-5BCDEC?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/sbfrusho">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbfrusho&theme=tokyonight" alt="Stats"/>
+  </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Total%20PRs-50+-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/sbfrusho">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbfrusho&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/sbfrusho">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbfrusho&theme=tokyonight" alt="Repos Per Language"/>
+  </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Issues%20Resolved-30+-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Projects-20+-FFA726?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/sbfrusho">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbfrusho&theme=tokyonight" alt="Most Commit Language"/>
+  </a>
 </td>
 </tr>
 </table>
 
-### 🌟 Contribution Heatmap
+### 🏆 GitHub Trophies
 
-<img src="https://ghchart.rshah.org/5BCDEC/sbfrusho" alt="GitHub Contribution Chart" width="100%"/>
+<a href="https://github.com/sbfrusho">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
+</a>
 
-### 🐍 Contribution Animation
+### 💡 Contribution Stats
 
-![Snake animation](https://raw.githubusercontent.com/sbfrusho/sbfrusho/output/github-contribution-grid-snake-dark.svg)
-
-### 💡 Activity Insights
-
-```
+```ascii
 📊 Code Distribution
 ├─ 🎯 Flutter/Dart         ███████████████░░░░░  65%
 ├─ 🐍 Python               ██████░░░░░░░░░░░░░░  20%
@@ -185,10 +170,10 @@ class Developer {
 ├─ ☀️ Afternoon (12PM-6PM) ████████████████░░░░  60%
 └─ 🌙 Evening (6PM-12AM)   ███░░░░░░░░░░░░░░░░░  10%
 
-📅 Weekly Activity
-├─ Commits/Week            ~50-80 commits
-├─ Active Days             5-6 days
-└─ Avg Session             2-3 hours
+📅 Weekly Pattern
+├─ Average Commits/Week    ~50-80 commits
+├─ Most Active Days        Mon-Fri (5-6 days)
+└─ Avg Coding Session      2-3 hours
 ```
 
 </div>
@@ -199,12 +184,28 @@ class Developer {
 
 <div align="center">
 
-| 📱 Flutter Apps | 🤖 ML/CV Projects |
-|:---|:---|
-| 🔥 **E-commerce Platform** - Full-stack shopping app | 🛰️ **RetinaNet Object Detection** - Thesis project |
-| 🏦 **Finance Tracker** - Personal budget management | 🖼️ **Image Classification** - CNN-based classifier |
-| 💬 **Chat Application** - Real-time messaging | 👁️ **Face Recognition** - OpenCV implementation |
-| 📚 **Learning Management System** | 📈 **Data Analysis** - Predictive modeling |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Flutter Applications
+- 🔥 **E-commerce Platform** - Full-stack shopping app with Firebase
+- 🏦 **Finance Tracker** - Personal budget management
+- 💬 **Chat Application** - Real-time messaging with Firebase
+- 📚 **Learning Management System** - Educational platform
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ML/CV Projects
+- 🛰️ **RetinaNet Object Detection** - Research thesis project
+- 🖼️ **Image Classification** - CNN-based classifier
+- 👁️ **Face Recognition** - OpenCV implementation
+- 📈 **Data Analysis** - Predictive modeling
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -212,7 +213,9 @@ class Developer {
 
 ## 🎓 Education & Research
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center" width="50%">
 
@@ -220,11 +223,12 @@ class Developer {
 **Bachelor of Science in CSE**
 - Focus: Mobile Development & ML/AI
 - CGPA: 3.52
+- Graduation: 2024
 
 </td>
 <td align="center" width="50%">
 
-### 📝 Thesis
+### 📝 Research Thesis
 **Enhancing Remote Sensing Object Detection using RetinaNet**
 - Computer Vision
 - Deep Learning
@@ -234,6 +238,8 @@ class Developer {
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -250,9 +256,9 @@ class Developer {
 
 **Interested in:**
 - 🚀 Flutter Development Projects
-- 🤖 ML/AI Research
+- 🤖 ML/AI Research & Development
 - 🌐 Open Source Contributions
-- 💼 Freelance Opportunities
+- 💼 Freelance & Contract Work
 
 </div>
 
@@ -260,9 +266,9 @@ class Developer {
 
 <div align="center">
 
-### 💭 Developer Quote
+### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
