@@ -140,9 +140,8 @@ class Developer {
 
 ### 🏛️ University of Rajshahi
 **Bachelor of Science in CSE**
-- Final Year Graduate
-- Focus: Mobile Development & ML
-- CGPA: Excellent Standing
+- Focus: Mobile Development & ML/AI
+- CGPA: 3.52
 
 </td>
 <td align="center" width="50%">
