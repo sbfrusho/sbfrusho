@@ -159,20 +159,15 @@ class Developer {
 ### 💡 Contribution Stats
 
 ```ascii
-📊 Code Distribution
-├─ 🎯 Flutter/Dart         ███████████████░░░░░  65%
-├─ 🐍 Python               ██████░░░░░░░░░░░░░░  20%
-├─ 🌐 Web (HTML/CSS/JS)    ████░░░░░░░░░░░░░░░░  10%
-└─ 🔧 Others               █░░░░░░░░░░░░░░░░░░░   5%
 
 ⏰ Most Productive Hours
-├─ 🌅 Morning (6AM-12PM)   ████████░░░░░░░░░░░░  30%
-├─ ☀️ Afternoon (12PM-6PM) ████████████████░░░░  60%
-└─ 🌙 Evening (6PM-12AM)   ███░░░░░░░░░░░░░░░░░  10%
+├─ 🌅 Morning (9AM-12PM)   ████████░░░░░░░░░░░░  30%
+├─ ☀️ Afternoon (2PM-5PM) ████████████████░░░░  60%
+└─ 🌙 Evening (9pm-12AM)   ███░░░░░░░░░░░░░░░░░  10%
 
 📅 Weekly Pattern
-├─ Average Commits/Week    ~50-80 commits
-├─ Most Active Days        Mon-Fri (5-6 days)
+├─ Average Commits/Week    ~30-50 commits
+├─ Most Active Days        Mon-Fri
 └─ Avg Coding Session      2-3 hours
 ```
 
@@ -223,7 +218,7 @@ class Developer {
 **Bachelor of Science in CSE**
 - Focus: Mobile Development & ML/AI
 - CGPA: 3.52
-- Graduation: 2024
+- Graduation: 2025
 
 </td>
 <td align="center" width="50%">
