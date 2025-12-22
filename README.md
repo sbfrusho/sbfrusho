@@ -92,27 +92,105 @@ class Developer {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbfrusho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+### 📈 Performance Metrics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbfrusho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Contribution Graph" />
-</div>
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbfrusho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF"/>
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbfrusho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF"/>
+</td>
+</tr>
+</table>
 
----
+### 🔥 Contribution Streak & Activity
 
-## 🏆 GitHub Achievements
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sbfrusho&theme=tokyonight&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+### 📅 Detailed Contribution Timeline
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sbfrusho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&area_color=5BCDEC" alt="Contribution Graph" />
+
+### 🎯 Contribution Breakdown
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbfrusho&theme=tokyonight"/>
+</td>
+<td align="center" width="25%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbfrusho&theme=tokyonight&utcOffset=6"/>
+</td>
+<td align="center" width="25%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbfrusho&theme=tokyonight"/>
+</td>
+<td align="center" width="25%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbfrusho&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+
+### 📊 Comprehensive Profile Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbfrusho&theme=tokyonight)
+
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=sbfrusho&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+### 📈 Key Metrics at a Glance
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Commits-1.5K+-5BCDEC?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20PRs-50+-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Issues%20Resolved-30+-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-20+-FFA726?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+### 🌟 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/5BCDEC/sbfrusho" alt="GitHub Contribution Chart" width="100%"/>
+
+### 🐍 Contribution Animation
+
+![Snake animation](https://raw.githubusercontent.com/sbfrusho/sbfrusho/output/github-contribution-grid-snake-dark.svg)
+
+### 💡 Activity Insights
+
+```
+📊 Code Distribution
+├─ 🎯 Flutter/Dart         ███████████████░░░░░  65%
+├─ 🐍 Python               ██████░░░░░░░░░░░░░░  20%
+├─ 🌐 Web (HTML/CSS/JS)    ████░░░░░░░░░░░░░░░░  10%
+└─ 🔧 Others               █░░░░░░░░░░░░░░░░░░░   5%
+
+⏰ Most Productive Hours
+├─ 🌅 Morning (6AM-12PM)   ████████░░░░░░░░░░░░  30%
+├─ ☀️ Afternoon (12PM-6PM) ████████████████░░░░  60%
+└─ 🌙 Evening (6PM-12AM)   ███░░░░░░░░░░░░░░░░░  10%
+
+📅 Weekly Activity
+├─ Commits/Week            ~50-80 commits
+├─ Active Days             5-6 days
+└─ Avg Session             2-3 hours
+```
+
 </div>
 
 ---
@@ -185,16 +263,6 @@ class Developer {
 ### 💭 Developer Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/sbfrusho/sbfrusho/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 📊 Profile Summary
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbfrusho&theme=tokyonight)
 
 ---
 
